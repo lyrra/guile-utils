@@ -44,7 +44,7 @@
 ;;;;     ...)
 ;;;;   )
 
-(define-module (testsuite)
+(define-module (guile-utils testsuite)
   #:export (test-verbose
             test-error-stop
             test-record-clear
